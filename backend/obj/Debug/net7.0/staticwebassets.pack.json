@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\21f86653-79cb-4355-96f4-63537399c283.pdf",
+      "PackagePath": "staticwebassets\\uploads\\21f86653-79cb-4355-96f4-63537399c283.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\416a2fe8-3d22-4649-aee4-ddf1abd8851b.docx",
+      "PackagePath": "staticwebassets\\uploads\\416a2fe8-3d22-4649-aee4-ddf1abd8851b.docx"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\4e5cea9a-63c3-40c9-b76f-06327d160b31.pdf",
+      "PackagePath": "staticwebassets\\uploads\\4e5cea9a-63c3-40c9-b76f-06327d160b31.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\8711fc44-4799-4261-977a-4b4f41a3ee87.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8711fc44-4799-4261-977a-4b4f41a3ee87.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\ac400521-9924-41ae-969d-b6e061d83d33.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ac400521-9924-41ae-969d-b6e061d83d33.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\c8c6962c-0c00-48fd-af99-c9d0005c2574.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c8c6962c-0c00-48fd-af99-c9d0005c2574.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\cf05ca19-c0c7-47c6-9f31-a0fd916a07f6.pdf",
+      "PackagePath": "staticwebassets\\uploads\\cf05ca19-c0c7-47c6-9f31-a0fd916a07f6.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MNA\\source\\repos\\WebAPiProject\\Resume_backend\\backend\\wwwroot\\uploads\\fcf1c15a-e214-47cf-adbf-3aa2be006eba.pdf",
+      "PackagePath": "staticwebassets\\uploads\\fcf1c15a-e214-47cf-adbf-3aa2be006eba.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
